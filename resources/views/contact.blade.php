@@ -8,10 +8,10 @@
     <div class="card-body">
       <h1 id="contact-title" class="page-title">Contact</h1>
       <dl class="description-list">
-        <dt>Group Name</dt>
-        <dd><strong>Your Group Name</strong></dd>
+        <dt>Roska Ridho Amba.LTe</dt>
+        <dd><strong>Ridho_19</strong></dd>
       </dl>
-      <p class="muted">Replace "Your Group Name" with your real group or organization name.</p>
+      <p class="muted">Lop u Pak Xavi</p>
     </div>
   </section>
 @endsection
